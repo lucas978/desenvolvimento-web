@@ -1,0 +1,25 @@
+<html>
+
+<head>
+
+<title>Minha primeira página de web!</title>
+
+</head>
+
+<body>
+
+<dl>
+
+<dt>Queso</dt>
+
+<dd>Palavra espanhola para queijo.</dd>
+
+<dt>Ordenador</dt>
+
+<dd>Palavra espanhola para computador.</dd>
+
+</dt>
+
+</body>
+
+</html> 
