@@ -1,0 +1,32 @@
+<html>
+
+<head>
+
+<title>Minha primeira página de web!</title>
+
+</head>
+
+<body>
+
+<p>
+
+Obrigado<br />
+
+<br />
+
+<br />
+
+<!-- Note que a próxima tah é "hr" e não "br".
+Iremos ver essa tag no próximo tutorial-->
+
+<hr />
+
+Charles Brownstone<br />
+
+Vice-Presidente
+
+</p>
+
+</body>
+
+</html> 
