@@ -1,0 +1,26 @@
+<html>
+
+<head>
+
+<title>Minha primeira página de web!</title>
+
+</head>
+
+<body>
+
+<h4>Lista de Compras</h4>
+
+<ul>
+
+<li>Leite</li>
+
+<li>Queijo</li>
+
+<li>Ovos</li>
+
+<li>Açúcar</li>
+
+</ul>
+</body>
+
+</html> 
