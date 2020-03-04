@@ -1,0 +1,24 @@
+<html>
+
+<head>
+
+<title>Minha primeira página de web!</title>
+
+</head>
+
+<body>
+
+<h2 align="center">HTML - Títulos 1:6 (Cabeçalhos)</h2>
+
+<p>Um título em HTML é exatamente o que ele parece, um título real ou um subtítulo. Quando você
+coloca o texto na tag &lt;h1&gt; o texto crescerá e a dimensão das letras será de acordo com o número
+de cabeçalhos. Os títulos podem ter dimensões de 1 a 6, ond 1 é a menor dimensão e 6 a maior.</p>
+
+<p>Um título em HTML é exatamente o que ele parece, um título real ou um subtítulo. Quando você
+coloca o texto na tag &lt;h1&gt; o texto crescerá e a dimensão das letras será de acordo com o número
+de cabeçalhos. Os títulos podem ter dimensões de 1 a 6, ond 1 é a menor dimensão e 6 a maior.</p>
+
+</body>
+
+</html> 
+ 7  2.html 
