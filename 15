@@ -1,0 +1,17 @@
+<html>
+
+<head>
+
+<title>Minha primeira página de web!</title>
+
+</head>
+
+<body>
+
+<p align="justify">O parágrado é o elemento base do texto editado. A tag para o parágrafo é <p>. Ele
+coloca uma linha vazia acima e uma abaixo do texto para fazè-lo evidente, e o navegador o terá pelo que
+ele é.</p>
+
+</body>
+
+</html> 
